@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sucodelarangela/alura-geek.git"
+    "url": "git+https://github.com/bchumpitazm/CHALLENGE-ALURA-GEEK.git"
   },
   "keywords": [],
-  "author": "Angela Caldas",
+  "author": "Bryan Chumpitaz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sucodelarangela/alura-geek/issues"
+    "url": "https://github.com/bchumpitazm/CHALLENGE-ALURA-GEEK/issues"
   },
-  "homepage": "https://github.com/sucodelarangela/alura-geek#readme",
+  "homepage": "https://github.com/bchumpitazm/CHALLENGE-ALURA-GEEK#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
